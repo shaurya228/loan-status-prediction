@@ -22,8 +22,8 @@ The README briefly discusses how each feature might impact the loan approval dec
 Next Steps
 The project is currently in its early stages. The next steps would involve:
 
-Exploratory Data Analysis (EDA): Gain deeper insights into the data distribution, relationships between features, and potential patterns.
-Feature Engineering: Create new features or transform existing ones to improve the model's predictive power.
-Model Selection and Training: Experiment with various machine learning algorithms and train them on the prepared data.
-Model Evaluation: Evaluate the model's performance using appropriate metrics.
-Model Deployment: Deploy the model into a production environment for real-world use.
+Exploratory Data Analysis (EDA): Gain deeper insights into the data distribution, relationships between features, and potential patterns.<br>
+Feature Engineering: Create new features or transform existing ones to improve the model's predictive power.<br>
+Model Selection and Training: Experiment with various machine learning algorithms and train them on the prepared data.<br>
+Model Evaluation: Evaluate the model's performance using appropriate metrics.<br>
+Model Deployment: Deploy the model into a production environment for real-world use.<br>
