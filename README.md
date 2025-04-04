@@ -1,4 +1,3 @@
-# loan-status-prediction
 # 🏦 Loan Approval Prediction Model
 
 This project aims to build a machine learning model that predicts whether a loan application will be approved or not. The model utilizes various applicant background information, such as gender, marital status, income, education, and more to make accurate predictions that can assist financial institutions in automating their decision process.
@@ -59,12 +58,12 @@ The following models were trained and tested:
 
 | Model                    | Accuracy (%) |
 |--------------------------|--------------|
-| Logistic Regression      | ~81.0        |
-| Decision Tree Classifier | ~75.0        |
-| Random Forest Classifier | **~83.0**    |
-| K-Nearest Neighbors      | ~78.0        |
+| Logistic Regression      | 69.0         |
+| Decision Tree Classifier | 81.0         |
+| Random Forest Classifier | **87.0**     |
+| K-Nearest Neighbors      | 72.0         |
 
-> Logistic Regression was also evaluated using 5-fold Cross-Validation, with an average score of **~81%**.
+> Random Forest outperformed other models with the highest accuracy. Logistic Regression showed relatively lower performance, likely due to the linear nature of the algorithm. Further improvements can be achieved through hyperparameter tuning and feature selection.
 
 ---
 
